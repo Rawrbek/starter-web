@@ -7,3 +7,5 @@ I HAS MADE CHANGE
 ## Purpose
 
 Sample website with plenty of files for demos
+
+more changes why

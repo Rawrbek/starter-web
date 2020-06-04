@@ -21,3 +21,6 @@ Some more text added for rebasing example, then more changes from myfeature bran
 
 
 ALL RIGHTS RESERVED - EMERGENCYYYYYYYYYYYYYYY
+
+
+Ermegency fix #2

@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+JOSHUA
 
 # THANKS
 
-    <name>
+   BOB
 
 # TECHNOLOGY COLOPHON
 

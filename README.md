@@ -17,4 +17,4 @@ COPYRIGHT ADDED
 ----------
 
 
-Some more text added for rebasing example
+Some more text added for rebasing example, then more changes from myfeature branch.
